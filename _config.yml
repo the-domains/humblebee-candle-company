@@ -1,14 +1,14 @@
-layout_spectrum: 0.6354477
-typography_spectrum: 0.3356325
+layout_spectrum: 0.008960574
 color:
   saturation: 0.1081092
   lightness: 0.692524
   brandStrength: 0.2739643
   brandColors:
-    - '#FBD702'
-    - '#030201'
-    - '#FBEA5C'
-    - '#917700'
-    - '#FFFFDE'
+    - '#FCFCFC'
+    - '#282828'
+    - '#5B3103'
+    - '#B38916'
+    - '#DFD7BE'
   rhythmicContrast: 0.9144633
+typography_spectrum: 0.6146954
 name: HumbleBee Candle Company
