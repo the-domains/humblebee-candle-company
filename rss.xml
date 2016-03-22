@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HumbleBee Candle Company]]></title>
+        <description><![CDATA[HumbleBee Candle Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 23:40:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HumbleBee Candle Co. Logo]]></title>
+            <description><![CDATA[<article><h1>HumbleBee Candle Co. Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2f401974af424443c82629e92d4c35164f7226b.png"></article>]]></description>
+            <link>undefinedhumblebee-candle-co-logo/index.html</link>
+            <guid isPermaLink="false">f44aa721-5ec5-46d5-b5c6-51817965505d</guid>
+            <pubDate>Tue, 22 Mar 2016 23:39:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
