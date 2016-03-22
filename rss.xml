@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HumbleBee Candle Company]]></title>
         <description><![CDATA[HumbleBee Candle Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/humblebee-candle-company/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:40:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 23:41:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/humblebee-candle-company/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunny Daze]]></title>
+            <description><![CDATA[<article><h1>Sunny Daze</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83482359-3e29-4475-ab07-df8dad34b718.png"></article>]]></description>
+            <link>https://thegrid.ai/humblebee-candle-company/sunny-daze/index.html</link>
+            <guid isPermaLink="false">511ac505-47bd-4a3e-9979-173fa7c47691</guid>
+            <pubDate>Tue, 22 Mar 2016 23:41:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HumbleBee Candle Co. Logo]]></title>
             <description><![CDATA[<article><h1>HumbleBee Candle Co. Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2f401974af424443c82629e92d4c35164f7226b.png"></article>]]></description>
-            <link>undefinedhumblebee-candle-co-logo/index.html</link>
+            <link>https://thegrid.ai/humblebee-candle-company/humblebee-candle-co-logo/index.html</link>
             <guid isPermaLink="false">f44aa721-5ec5-46d5-b5c6-51817965505d</guid>
             <pubDate>Tue, 22 Mar 2016 23:39:58 GMT</pubDate>
         </item>
